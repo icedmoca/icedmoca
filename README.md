@@ -1,1 +1,1 @@
-<img alt="🦑" align="center" src="https://github.com/icedmoca/icedmoca/metrics.svg">
+![Metrics](https://github.com/icedmoca/icedmoca/blob/main/github-metrics.svg)
