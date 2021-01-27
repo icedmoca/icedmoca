@@ -36,12 +36,15 @@ jobs:
   github-metrics-personal:
     runs-on: ubuntu-latest
     steps:
-
-      - name: Personal metrics
-        uses: lowlighter/metrics@latest
+      # Display isometric calendar (180 days)
+      - name: Isocalendar plugin
+        uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_lines: yes
+          base: ""
           plugin_isocalendar: yes
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
