@@ -1,0 +1,115 @@
+# This is a workflow showing most of lowlighter/metrics features
+# If you forked this repository, you should only keep the "github-metrics-personal" job, 
+# and delete the "github-metrics" as it is only used to generate examples
+#
+# See https://github.com/lowlighter/metrics/blob/master/action.yml for full options reference
+# See https://github.com/lowlighter/metrics for additional documentation
+# 
+# You'll notice that my workflow use a lot of different tokens :
+# - GITHUB_TOKEN which is an auto-generated token provided by GitHub used to commit your metrics on your repository
+# - METRICS_TOKEN which is my personal scope-less token  
+# - METRICS_BOT_TOKEN which is a bot account token with more scopes that I use for plugins which requires additional scopes
+# 
+# There are also a few application tokens : 
+# - PAGESPEED_TOKEN which is a PageSpeed API token (optional for "plugin_pagespeed")
+# - TWITTER_TOKEN which is twitter API token (mandatory for "plugin_tweets")
+# - SPOTIFY_TOKENS which contains a client_id, client_secret and a refresh_token for Spotify (mandatory for some mode of "plugin_music")
+#
+# The workflow is planned for every hour, but you can change its frequency if you want, 
+# though it's useless to put something lower than 15 minutes as your rendered metrics will probably still be cached by GitHub
+#
+# It will also run on each manual commit on "master" branch
+
+name: GitHub metrics
+on:
+  schedule:
+    - cron: "*/3 * * * *"
+  push:
+    branches: 
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+
+# The job below generates the images displayed on lowlighter/lowlighter
+# You can reuse these steps if you want to have a profile page similar to mine.
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+      # Display isometric calendar (180 days)
+      - name: Personal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "header, repositories"
+          plugin_lines: yes
+          plugin_isocalendar: yes
+          config_timezone: Europe/Paris
+          config_order: base.header, isocalendar, base.repositories
+          config_padding: 10%
+
+      - name: Personal metrics (additional)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.additional.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
+          plugin_languages_skipped: lowlighter
+          plugin_stargazers: no
+          plugin_stars: no
+          plugin_stars_limit: 3
+          config_timezone: Europe/Paris
+          config_order: languages, pagespeed, habits, stargazers, stars
+          config_padding: 6%, 10%
+
+      - name: Topics plugin (mastered)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.topics.mastered.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+
+      - name: Languages plugin
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile
+          plugin_languages_skipped: lowlighter
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
+
+      - name: Music plugin (recent)
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.music.recent.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          plugin_music_mode: recent
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_limit: 2
+          plugins_errors_fatal: yes
+          config_timezone: Europe/Paris
+          use_prebuilt_image: master
