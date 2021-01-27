@@ -40,7 +40,7 @@ jobs:
       - name: Personal metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_lines: yes
