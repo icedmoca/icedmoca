@@ -732,8 +732,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">2</span>
+              <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               11
             </div>
           
@@ -820,8 +820,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">8</span>
-                <div class="bar" style="height: 3.1746031746031744px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 2.380952380952381px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sun
               </div>
             
@@ -871,14 +871,14 @@
             
               <div class="entry">
                 <span class="name">Python</span>
-                <div class="bar" style="width: 77.83200000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                <span class="value">97%</span>
+                <div class="bar" style="width: 76.98400000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">96%</span>
               </div>
             
               <div class="entry">
                 <span class="name">Batchfile</span>
-                <div class="bar" style="width: 2.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                <span class="value">3%</span>
+                <div class="bar" style="width: 3.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">4%</span>
               </div>
             
           </div>
