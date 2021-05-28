@@ -1164,7 +1164,7 @@
               01
             </div>
                     <div class="entry">
-              <span class="value">2</span>
+              <span class="value">1</span>
               <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               02
             </div>
@@ -1305,7 +1305,7 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">2</span>
+                <span class="value">1</span>
                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
