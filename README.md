@@ -33,7 +33,7 @@
 [NodeJs]: https://nodejs.org/en/
 [Electron]: https://www.electronjs.org/
 [Discord]: https://discord.com/
-[Twitter]: https://tessapp.dev/twitter
+[Twitter]: https://twitter.com
 
 <!-----------------------------------{ Badges images }-------------------------------->
 
