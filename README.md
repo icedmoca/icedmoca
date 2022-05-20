@@ -22,7 +22,6 @@
 <br>
 
 ![Metrics](https://github.com/icedmoca/icedmoca/blob/main/metrics.svg)
-![Metrics](https://github.com/icedmoca/icedmoca/blob/main/metrics.plugin.topics.mastered.svg)
 
 [Releases]: https://github.com/icedmoca
 [Arch]: https://aur.archlinux.org/packages/
