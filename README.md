@@ -48,3 +48,5 @@
 [Badge Electron]: https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9
 [Badge Discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Badge Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+
+![Icedmocas GitHub stats](https://github-readme-stats.vercel.app/api?username=icedmoca&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
