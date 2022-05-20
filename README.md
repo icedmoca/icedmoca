@@ -7,7 +7,8 @@
 <br>
 <img src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/ai.gif" width="480px">
 <br>
-  
+ <!-----------------------------------{ Git Stats 1 }-------------------------------->
+![Icedmocas GitHub stats](https://github-readme-stats.vercel.app/api?username=icedmoca&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!-----------------------------------{ Badges display }-------------------------------->
   
 [![Badge Arch]][Arch]
@@ -49,4 +50,3 @@
 [Badge Discord]: https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 [Badge Twitter]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 
-![Icedmocas GitHub stats](https://github-readme-stats.vercel.app/api?username=icedmoca&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
