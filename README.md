@@ -2,7 +2,7 @@
   
 # Kyle Drake
   
-**JS & Python application development** <br>
+**JS, Python, and blockchain application development** <br>
 **Social Media & management software for web 3.0.**
 <br>
 <img src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/ai.gif" width="480px">
