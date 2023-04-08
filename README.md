@@ -14,19 +14,3 @@
 <br>
 
 ![Metrics](https://github.com/icedmoca/icedmoca/blob/main/metrics.svg)
-
-[Releases]: https://github.com/icedmoca
-[Arch]: https://aur.archlinux.org/packages/
-[Chocolatey]: https://community.chocolatey.org/packages/
-[Snapcraft]: https://snapcraft.io/
-[JavaScript]: https://developer.mozilla.org/fr/docs/Web/JavaScript
-[C++]: https://isocpp.org/
-[NodeJs]: https://nodejs.org/en/
-[Electron]: https://www.electronjs.org/
-[Discord]: https://discord.com/
-[Twitter]: https://twitter.com
-
-
-![Profile Views](https://gpvc.arturio.dev/icedmoca)
-
-
