@@ -11,6 +11,3 @@
 ![Icedmocas GitHub stats](https://github-readme-stats.vercel.app/api?username=icedmoca&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!-----------------------------------{ Badges display }-------------------------------->
   
-<br>
-
-![Metrics](https://github.com/icedmoca/icedmoca/blob/main/metrics.svg)
