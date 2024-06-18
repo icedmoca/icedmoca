@@ -5,7 +5,6 @@
 ### CS | Expanding Expertise in Network Security and Data Protection
 ![Icedmocas GitHub stats](https://github-readme-stats.vercel.app/api?username=icedmoca&show_icons=true&theme=radical)
 
-![graph](https://raw.githubusercontent.com/icedmoca/icedmoca/11daac5bdde64f35b091a9d437aab74c6842ff35/metrics.plugin.isocalendar.svg)
 ## 🛠 Skills
 Proficiency / Expertise
 
