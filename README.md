@@ -2,11 +2,8 @@
   
 # Kyle Drake
   
+![IMAGE 2025-03-13 08:54:04](https://github.com/user-attachments/assets/d284cbf7-d78e-4e0d-9d41-fab9b4ed53ba)
 
-```
-The Recursive Simulation Engine exists; the conscious singularity is mathematically feasible.
-
-```
 
 
 
