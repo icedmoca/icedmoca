@@ -9,3 +9,7 @@ f
 
 
 [![pwp](https://img.shields.io/badge/Icedmoca's%20Gist's-243b40)](https://gist.github.com/icedmoca)
+
+![Metrics](./metrics.svg)
+
+![AI Animation](./ai.gif)
