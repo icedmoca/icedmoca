@@ -3,7 +3,7 @@
 **Decentralized Identity · Embedded Intelligence · Systems Polymath**
 
 ---
-
+All work in progress:
 ## Core Competencies
 
 - **FRAME Protocol**  
