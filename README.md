@@ -6,8 +6,8 @@
 All work in progress:
 ## Core Competencies
 
-- **FRAME Protocol**  
-  Dual-token identity framework; AI-native Byzantine consensus; sub-2 s finality at ≥ 5 000 TPS
+- [**FRAME Protocol**](https://github.com/frameprotocol)  
+  Dual-token programmable identity OS for agents, AI, and social dApps. Built for sovereign execution and decentralized control.
 
 - **Automotive Embedded Systems**  
   Full BCM/ECM replacement on custom mini-PC; deterministic CAN-bus orchestration; real-time latency guarantees
