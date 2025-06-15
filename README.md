@@ -13,7 +13,7 @@ All work in progress:
   Full BCM/ECM replacement on custom mini-PC; deterministic CAN-bus orchestration; real-time latency guarantees
 
 - **XKeystroke Engine**  
-  AI-driven keystroke & input orchestration with < 1 ms jitter; 10 000 macros/s sustained throughput
+  Open Source Intelligence platform for web-scale data extraction, file analysis, and collaborative threat research
 
 - **SpectraFS**  
   Enterprise distributed filesystem with erasure coding; 1 TB/s read/write; nine-nines durability
