@@ -9,8 +9,8 @@ All work in progress:
 - [**FRAME Protocol**](https://github.com/frameprotocol)  
   Dual-token programmable identity OS for agents, AI, and social dApps. Built for sovereign execution and decentralized control.
 
-- **Automotive Embedded Systems**  
-  Full BCM/ECM replacement on custom mini-PC; deterministic CAN-bus orchestration; real-time latency guarantees
+- **MeRNSTA**  
+  Neuro-symbolic memory cortex for LLMs. Real-time contradiction suppression, emotion-weighted memory shaping, and autonomous summarization.
 
 - **XKeystroke Engine**  
   Open Source Intelligence platform for web-scale data extraction, file analysis, and collaborative threat research
