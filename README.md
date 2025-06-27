@@ -9,7 +9,7 @@ All work in progress:
 - [**FRAME Protocol**](https://github.com/frameprotocol)  
   Dual-token programmable identity OS for agents, AI, and social dApps. Built for sovereign execution and decentralized control.
 
-- **MeRNSTA**  
+- [**MeRNSTA**](https://github.com/icedmoca/MeRNSTA)  
   Neuro-symbolic memory cortex for LLMs. Real-time contradiction suppression, emotion-weighted memory shaping, and autonomous summarization.
 
 - **XKeystroke Engine**  
