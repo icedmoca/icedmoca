@@ -12,11 +12,11 @@ All work in progress:
 - [**MeRNSTA**](https://github.com/icedmoca/MeRNSTA)  
   Neuro-symbolic memory cortex for LLMs. Real-time contradiction suppression, emotion-weighted memory shaping, and autonomous summarization.
 
-- **XKeystroke Engine**  
+- **XKeystroke**  
   Open Source Intelligence platform for web-scale data extraction, file analysis, and collaborative threat research
 
-- **SpectraFS**  
-  Enterprise distributed filesystem with erasure coding; 1 TB/s read/write; nine-nines durability
+- [**localstore**](https://github.com/icedmoca/localstore)  
+  A Self-Hosted, Python-Based Marketplace for Secure, Transparent, and Collaborative Web Applications * *Python web UI* *
 
 - **FuzzSynth**  
   Adaptive fuzzing using genetic algorithms & symbolic execution; > 90 % branch coverage on closed-source binaries
