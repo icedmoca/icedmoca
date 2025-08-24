@@ -18,8 +18,15 @@ All work in progress:
 - [**localstore**](https://github.com/icedmoca/localstore)  
   A Self-Hosted, Python-Based Marketplace for Secure, Transparent, and Collaborative Web Applications * *Python web UI* *
 
-- **FuzzSynth**  
-  Adaptive fuzzing using genetic algorithms & symbolic execution; > 90 % branch coverage on closed-source binaries
+## AI
+
+- ### LLM
+
+- **ollama-vocab-tokenizer**  
+  Fast, model-aligned tokenization endpoints for Ollama with vocab-only cache and scheduler fallback.
+
+- [**MeRNSTA**](https://github.com/icedmoca/MeRNSTA)  
+  Neuro-symbolic memory cortex for LLMs. Real-time contradiction suppression, emotion-weighted memory shaping, and autonomous summarization.
 
 - **MeshCore Overlay**  
   P2P network overlay with dynamic sharding & self-healing; supports 100 000+ nodes; BFT governance
