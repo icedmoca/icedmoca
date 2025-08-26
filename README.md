@@ -2,6 +2,9 @@
 
 **Decentralized Identity · Embedded Intelligence · Systems Polymath**
 
+> *Ignorance may bring fleeting delight, and knowing too much may weigh upon the heart, yet neither blindness nor endless sight grants lasting peace. Awareness is freedom; serenity lies not in what we know or what we shun, but in how we bear the weight of truth.*
+
+
 ---
 All work in progress:
 ## Core Competencies
