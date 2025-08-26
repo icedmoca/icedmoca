@@ -73,7 +73,7 @@ All work in progress:
 
 - ### LLM
 
-- **ollama-vocab-tokenizer**  
+- [**ollama-vocab-tokenizer**](https://github.com/icedmoca/ollama-vocab-tokenizer)  
   Fast, model-aligned tokenization endpoints for Ollama with vocab-only cache and scheduler fallback.
 
 - [**MeRNSTA**](https://github.com/icedmoca/MeRNSTA)  
