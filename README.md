@@ -44,6 +44,7 @@
 | **Oracle Agent** | [qSHA256](link) | Grover's algorithm optimization for hash collision | Experimental |
 | **Entropy Ledger (ENL)** | [qSHA256](link) | Grover's algorithm optimization for hash collision | Experimental |
 
+![SHA256-90R FPGA Pipeline](https://gist.githubusercontent.com/icedmoca/31f80739b2a05a5c557c53f9c90b97d3/raw/sha256_90r_pipeline.svg)
 
 
 
