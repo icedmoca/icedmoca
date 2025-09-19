@@ -5,7 +5,7 @@
 
 ---
 
-## Research Projects and Implementation Table
+## Projects and Implementation Table
 
 | Vertical                              | Name                    | Core Innovation                                                         | Development             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
