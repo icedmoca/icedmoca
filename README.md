@@ -1,6 +1,6 @@
 # Kyle Drake
 
-> *Decentralized Identity · Embedded Intelligence · Transdisciplinary Synthesis Engineer*
+> *Systems Engineer*
 
 
 ---
