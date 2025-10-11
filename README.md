@@ -1,11 +1,11 @@
 # Kyle Drake
 
-> *Systems Engineer*
+> 24, *Systems Engineer*
 
 
 ---
 
-## Projects and Implementation Table
+## Self Projects and Implementation Table
 
 | Vertical                              | Name                    | Core Innovation                                                         | Development             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
