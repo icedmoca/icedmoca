@@ -1,6 +1,6 @@
 # Kyle Drake
 
-> 24, *Systems Engineer*
+> *Systems Engineer*
 
 
 ---
