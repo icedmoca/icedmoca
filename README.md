@@ -5,9 +5,7 @@
 
 ---
 
-## Projects
-
-| Vertical                              | Name                    | Core Innovation                                                         | Development             |
+| Vertical                              | Project Name                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
 | **Decentralized Identity**                     | [FRAME Protocol](https://github.com/frameprotocol)                    | `Dual-token atomic operations with BFT consensus`                         | Prototype |
 | **Neuro-Symbolic AI**                          | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                          | `Dynamic contradiction suppression through temporal-causal graph analysis` | Research |
