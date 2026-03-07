@@ -19,6 +19,8 @@
 | **Crypto Trading Automation**                  | [oracleagent/CTA](https://github.com/oracleagent/CTA)                  | `ML-driven automated trading system for cryptocurrencies (Python)`         | Alpha              |
 | **AI Evolving OS Kernel**                      | [AI-Enhanced Operating System Interface (AEOS)](https://github.com/Entropy-Ledger-ENL/AEOS)               | `A GPU-Accelerated, Decentralized, and Adaptive OS Kernel`         | Planning              |
 | **Web3 Profile System**                        | [chatcoinio](https://github.com/chatcoinio/chatcoin)                       | `Programmable identity, apps, wallets & autonomous AI agents`              | Prototype              |
+| **Chatgpt Lag Fixer**                        | [Trimwise Fork](https://github.com/icedmoca/Trimwise)                 | `Chrome extension that dramatically improves ChatGPT performance in long conversations by implementing true virtual scrolling`              | Release              |
+
 
 
 > [!IMPORTANT]  
