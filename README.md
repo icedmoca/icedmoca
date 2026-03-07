@@ -7,7 +7,7 @@
 
 | Vertical                              | Project Name                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
-| **Decentralized Identity**                     | [FRAME Protocol](https://github.com/frameprotocol)                    | `Deterministic receipt-chained capability-isolated federated replay-verifiable state machine runtime`                         | Prototype |
+| **Decentralized Identity**                     | [FRAME Protocol](https://github.com/frameprotocol)                    | `Deterministic verifiable deterministic execution protocol with receipt-chained capability-isolated federated replay-verifiable state machine runtime`                         | Prototype |
 | **Neuro-Symbolic AI**                          | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                          | `Dynamic contradiction suppression through temporal-causal graph analysis` | Research |
 | **Cryptography**                               | [SHA256-90R](https://github.com/icedmoca/SHA256-90R)                     | `Extended/hardened variants of AES, Blowfish, SHA-256, Base64 with XR rounds & regression tests` | Research |
 | **Quantum Computing**                          | [qSHA256](https://github.com/oracleagent/qSHA256)                          | `Quantum computing implementation of SHA-256 using Qiskit (Python/Shell)`    | Experimental    |
