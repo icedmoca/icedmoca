@@ -5,38 +5,32 @@
 
 ---
 
+> [!IMPORTANT]  
+> Current development prioritizes **FRAME** & **Gauge OBD**
+
+
+| Vertical                              | Organization                    | Core Innovation                                                         | Status             |
+|--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
+| **Decentralized Identity**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic local first runtime with capability scoped execution, receipt chaining, and fully replayable state`                         | Release |
+| **OBD2 + LLM Vehicle Monitoring**                     | [Gauge OBD](https://github.com/gauge-obd)           | `Live OBD2 data to Bluetooth dongle directly into a LLM to deliver plain English explanations, failure predictions, and sleek Markdown dashboards in real time`                         | Production              |
+| **Organizational Website**                     | [Ableallstarsorg/website](https://github.com/Ableallstarsorg/website)           | `Official website for Able All Stars`                         | Production              |
+| **Negentropy Backed Blockchain**                     | [Entropy Ledger (ENL)](https://github.com/Entropy-Ledger-ENL)           | `Quantum secure ledger with locality bound consensus and issuance tied to verifiable negentropy`                         | Production              |
+
+> [!NOTE]
+> Projects listed as **Experimental** are on hold..
+
 | Vertical                              | Project Name                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
-| **Decentralized Identity**                     | [FRAME Protocol](https://github.com/frameprotocol)                    | `Deterministic verifiable deterministic execution protocol with receipt-chained capability-isolated federated replay-verifiable state machine runtime`                         | Prototype |
-| **Neuro-Symbolic AI**                          | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                          | `Dynamic contradiction suppression through temporal-causal graph analysis` | Research |
-| **Cryptography**                               | [SHA256-90R](https://github.com/icedmoca/SHA256-90R)                     | `Extended/hardened variants of AES, Blowfish, SHA-256, Base64 with XR rounds & regression tests` | Research |
-| **Quantum Computing**                          | [qSHA256](https://github.com/oracleagent/qSHA256)                          | `Quantum computing implementation of SHA-256 using Qiskit (Python/Shell)`    | Experimental    |
+| **Custom Dialects for LLM's**             | [llm-interlang](https://github.com/icedmoca/llm-interlang)              | `Efficient LLM Interaction / Token Optimization for Multi Agent Systems`  | Release              |
+| **Model Tokenization**                         | [ollama-vocab-tokenizer](https://github.com/icedmoca/ollama-vocab-tokenizer)           | `Fast, model tokenization endpoints with vocab only cache`         | Release   |
+| **Neuro Symbolic AI**                          | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                          | `Dynamic contradiction suppression through temporal causal graph analysis` | Research |
+| **Chatgpt Lag Fixer**                        | [Trimwise Fork](https://github.com/icedmoca/Trimwise)                 | `Chrome extension that improves ChatGPT performance in long conversations adding true virtual scrolling`              | Release              |
+| **Agentic Workflow Enabler**                         | [ChatGPT Chrome Bridge](https://github.com/icedmoca/chatgpt_chrome_bridge)           | `Python bridge for automating ChatGPT from the command line over SSH via Chromium no API key required.`         | Release   |
+| **Cryptography**                               | [SHA256-90R](https://github.com/icedmoca/SHA256-90R)                     | `Extended/hardened variants of AES, Blowfish, SHA-256, Base64 with XR rounds & regression tests` | Experimental |
+| **Quantum Computing**                          | [qSHA256](https://github.com/icedmoca/qSHA256)                          | `Quantum computing implementation of SHA-256 using Qiskit (Python/Shell)`    | Experimental    |
+| **Metadata Resistant Tunneling**                          | [SignalTunnel](https://github.com/icedmoca/SignalTunnel)                          | `Tunnels arbitrary TCP/UDP traffic through the Signal messaging protocol for metadata concealment`    | Experimental    |
 | **OSINT Data Gathering**                       | [XKeystroke](https://github.com/AIOSINT/Xkeystroke)                       | `Comprehensive data gathering & analysis via web scraping and APIs`      | Prototype      |
-| **Model Tokenization**                         | [ollama-vocab-tokenizer](https://github.com/icedmoca/ollama-vocab-tokenizer)           | `Fast, model-aligned tokenization endpoints with vocab-only cache`         | Research   |
-| **macOS Virtualization**                       | [OSXVenturaDocker](https://github.com/icedmoca/OSXVenturaDocker)        | `macOS Ventura on Windows 11 using WSL2, QEMU & Docker (Bash)`             | Stable              |
-| **Organizational Website**                     | [Ableallstarsorg/website](https://github.com/Ableallstarsorg/website)           | `Official website for Able All Stars (HTML5 CSS3)`                         | Production              |
-| **Quantum SHA-256 Implementation**             | [oracleagent/qSHA256](https://github.com/oracleagent/qSHA256)              | `Quantum computing implementation of SHA-256 using Qiskit (Python/Shell)`  | Research              |
-| **Crypto Trading Automation**                  | [oracleagent/CTA](https://github.com/oracleagent/CTA)                  | `ML-driven automated trading system for cryptocurrencies (Python)`         | Alpha              |
-| **AI Evolving OS Kernel**                      | [AI-Enhanced Operating System Interface (AEOS)](https://github.com/Entropy-Ledger-ENL/AEOS)               | `A GPU-Accelerated, Decentralized, and Adaptive OS Kernel`         | Planning              |
-| **Web3 Profile System**                        | [chatcoinio](https://github.com/chatcoinio/chatcoin)                       | `Programmable identity, apps, wallets & autonomous AI agents`              | Prototype              |
-| **Chatgpt Lag Fixer**                        | [Trimwise Fork](https://github.com/icedmoca/Trimwise)                 | `Chrome extension that dramatically improves ChatGPT performance in long conversations by implementing true virtual scrolling`              | Release              |
-
-
-
-> [!IMPORTANT]  
-> Current development prioritizes integrating MeRNSTA’s dynamic contradiction suppression via temporal-causal graph analysis with ollama-vocab-tokenizer’s fast, model-aligned tokenization endpoints to construct an Adaptive OS Kernel. This kernel will synergize with the FRAME Protocol’s dual-token atomic operations and BFT consensus for a robust decentralized application platform.
-
-
-## Organizations
-*Constituent Organizations Committed to Advancing Innovation, Collaboration, and Transformative Impact.*
-
-
-> [!CAUTION]
-> **Not Finished at all:**
-
-| Organization | Purpose | Core Innovation | Status |
-|--------------|----------------|-----------------|---------|
-| **AUGVR** | [FRAME Protocol](link) | Dual-token atomic operations with BFT consensus | Active Research |
-| **AIOSINT** | [MeRNSTA](https://github.com/icedmoca/MeRNSTA) | Dynamic contradiction suppression through temporal-causal graph analysis | Active Research |
-| **Oracle Agent** | [qSHA256](link) | Grover's algorithm optimization for hash collision | Experimental |
-| **Entropy Ledger (ENL)** | [qSHA256](link) | Grover's algorithm optimization for hash collision | Experimental |
+| **MacOS Virtualization**                       | [OSXVenturaDocker](https://github.com/icedmoca/OSXVenturaDocker)        | `macOS Ventura on Windows 11 using WSL2, QEMU & Docker`             | Release              |
+| **Security Sensor Fusion**                       | [Security Obelisk](https://github.com/icedmoca/security-obelisk)        | `Surveillance network using edge nodes to fuse multi-camera feeds, perform real-time SLAM and Wi-Fi localization`             | Experimental              |
+| **Browser Extension Utility**                       | [404 Redirect](https://github.com/icedmoca/404-archive-redirect)        | `Chromium extension that intercepts 404 errors, redirects to a page listing archive links`             | Release              |
+| **Car Computing Platform**                       | [Road Arch](https://github.com/malibuw/roadarch)        | `Dashboard for the vehicle's head unit, integrating SDR radar detection, OBD telemetry, camera feeds, GPS, and real time DSP, maps, more..`             | Experimental              |
