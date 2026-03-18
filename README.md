@@ -31,3 +31,5 @@
 | **Security Sensor Fusion**                       | [Security Obelisk](https://github.com/icedmoca/security-obelisk)        | `Surveillance network using edge nodes to fuse multi-camera feeds, perform real-time SLAM and Wi-Fi localization`             | Experimental              |
 | **Browser Extension Utility**                       | [404 Redirect](https://github.com/icedmoca/404-archive-redirect)        | `Chromium extension that intercepts 404 errors, redirects to a page listing archive links`             | Release              |
 | **Car Computing Platform**                       | [Road Arch](https://github.com/malibuw/roadarch)        | `Dashboard for the vehicle's head unit, integrating SDR radar detection, OBD telemetry, camera feeds, GPS, and real time DSP, maps, more..`             | Experimental              |
+| **Hypervisor Control Panel**                       | [hyperv-ascii-orchestrator](https://github.com/icedmoca/hyperv-ascii-orchestrator)        | `Local web based management dashboard for Hyper-V on Windows 11. Runs entirely on localhost with no cloud dependencies.`             | Release              |
+
