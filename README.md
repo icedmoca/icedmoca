@@ -14,7 +14,7 @@
 | **Decentralized Identity**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic local first runtime with capability scoped execution, receipt chaining, and fully replayable state`                         | Release |
 | **OBD2 + LLM Vehicle Monitoring**                     | [Gauge OBD](https://github.com/gauge-obd)           | `Live OBD2 data to Bluetooth dongle directly into a LLM to deliver plain English explanations, failure predictions, and sleek Markdown dashboards in real time`                         | Production              |
 | **Organizational Website**                     | [Ableallstarsorg/website](https://github.com/Ableallstarsorg/website)           | `Official website for Able All Stars`                         | Production              |
-| **Negentropy Backed Blockchain**                     | [Entropy Ledger (ENL)](https://github.com/Entropy-Ledger-ENL)           | `Quantum secure ledger with locality bound consensus and issuance tied to verifiable negentropy`                         | Production              |
+| **Negentropy Backed Blockchain**                     | [Entropy Ledger (ENL)](https://github.com/Entropy-Ledger-ENL)           | `Quantum secure ledger with locality bound consensus and issuance tied to verifiable negentropy`                         | Experimental              |
 
 > [!NOTE]
 > Projects listed as **Experimental** are on hold..
