@@ -19,6 +19,7 @@
 | Vertical                              | Project Name                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
 | **Custom Dialects for LLM's**             | [llm-interlang](https://github.com/icedmoca/llm-interlang)              | `Efficient LLM Interaction / Token Optimization for Multi Agent Systems`  | Release              |
+| **Symbolic model distillation**             | [interlang-distill](https://github.com/icedmoca/interlang-distill)              | `Distills models using compressed symbolic programs with deterministic structured representations`  | WIP              |
 | **Model Tokenization**                         | [ollama-vocab-tokenizer](https://github.com/icedmoca/ollama-vocab-tokenizer)           | `Fast, model tokenization endpoints with vocab only cache`         | Release   |
 | **Neuro Symbolic AI**                          | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                          | `Dynamic contradiction suppression through temporal causal graph analysis` | Research |
 | **Chatgpt Lag Fixer**                        | [Trimwise Fork](https://github.com/icedmoca/Trimwise)                 | `Chrome extension that improves ChatGPT performance in long conversations adding true virtual scrolling`              | Release              |
