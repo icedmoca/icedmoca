@@ -25,6 +25,7 @@
 | **MacOS Virtualization**              | [OSXVenturaDocker](https://github.com/icedmoca/OSXVenturaDocker)             | macOS Ventura on Windows 11 via WSL2, QEMU, Docker                      | Release            |
 | **Browser Extension Utility**         | [404 Redirect](https://github.com/icedmoca/404-archive-redirect)             | Redirects 404 pages to archive sources                                  | Release            |
 | **Hypervisor Control Panel**          | [hyperv-ascii-orchestrator](https://github.com/icedmoca/hyperv-ascii-orchestrator) | Local HyperV dashboard with no cloud dependencies                       | Release            |
+| **Cognitive Architecture Simulation**                 | [mernsta-architecture-sim](https://github.com/neura-asi/mernsta-architecture-sim)                             | Prompt driven contradiction simulation via structured reasoning             | Release           |
 | **Neuro Symbolic AI**                 | [MeRNSTA](https://github.com/icedmoca/MeRNSTA)                               | Dynamic contradiction suppression via causal graph analysis             | Research           |
 | **Cryptography**                      | [SHA256-90R](https://github.com/icedmoca/SHA256-90R)                         | Extended AES/SHA variants with additional rounds                        | Experimental       |
 | **Quantum Computing**                 | [qSHA256](https://github.com/icedmoca/qSHA256)                               | Quantum SHA-256 implementation using Qiskit                             | Experimental       |
