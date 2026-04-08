@@ -8,7 +8,7 @@
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
-| **Decentralized Identity**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic local first runtime with capability scoped execution, receipt chaining, and fully replayable state`                         | Prototype/Alpha |
+| **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic local first runtime with capability scoped execution, receipt chaining, and fully replayable state`                         | Prototype/Alpha |
 | **OBD2 + LLM Vehicle Monitoring**                     | [Gauge OBD](https://github.com/gauge-obd)           | `Live OBD2 data to Bluetooth dongle directly into a LLM to deliver plain English explanations, failure predictions, and sleek Markdown dashboards in real time`                         | Prototype/Alpha              |
 | **Organizational Website**                     | [AbleAllStars](https://github.com/Ableallstarsorg/website)           | `Official website for Able All Stars`                         | Production              |
 
