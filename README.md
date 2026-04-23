@@ -8,10 +8,10 @@
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
-| **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic local first runtime with capability scoped execution, receipt chaining, and fully replayable state`                         | Prototype/Alpha |
-| **OBD2 + LLM Vehicle Monitoring**                     | [Gauge OBD](https://github.com/gauge-obd)           | `Live OBD2 data to Bluetooth dongle directly into a LLM to deliver plain English explanations, failure predictions, and sleek Markdown dashboards in real time`                         | Prototype/Alpha              |
-| **Organizational Website**                     | [AbleAllStars](https://github.com/Ableallstarsorg/website)           | `Official website for Able All Stars`                         | Production              |
-
+| **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | Prototype/Active Development |
+| **OBD2 + LLM Vehicle Monitoring**                     | [Gauge OBD](https://github.com/gauge-obd)           | `Live OBD2 data` to Bluetooth dongle directly into an `AI` to deliver `plain English explanations`, `failure predictions`, and sleek `Markdown dashboards` in `real time`                         | Alpha/Active Development              |
+| **Organizational Website**                     | [AbleAllStars](https://github.com/Ableallstarsorg/website)           | Official `website` for Able All Stars                         | Production              |
+| **AI System** | [NEURA](https://github.com/neura-asi) | `Policy driven`, `self correcting` `AI agent` with `tool orchestration`, `structured fact extraction`, `conflict detection`, `econciliation loops`, and `memory guided decision making` | Active Development |
 
 > [!NOTE]
 > Projects listed as **Experimental** are on hold..
