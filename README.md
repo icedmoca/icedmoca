@@ -2,9 +2,9 @@
 
 > *Systems Engineer*
 
-
 ---
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyle%20Drake-blue?logo=linkedin)](https://www.linkedin.com/in/kyledrake)
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
