@@ -1,8 +1,20 @@
-<text
-  x="50%"
-  y="50%"
-  font-family="Instrument Serif"
-  font-size="64"
+<svg
+  width="800"
+  height="200"
+  viewBox="0 0 800 200"
+  xmlns="http://www.w3.org/2000/svg"
 >
-Hello
-</text>
+  <rect width="100%" height="100%" fill="white"/>
+
+  <text
+    x="50%"
+    y="50%"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Instrument Serif"
+    font-size="64"
+    fill="black"
+  >
+    Hello
+  </text>
+</svg>
