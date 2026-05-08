@@ -33,7 +33,7 @@ const fs = require("fs");
       .join("\n");
 
     return `
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="500">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>${css}</style>
