@@ -4,19 +4,23 @@
 
 ---
 
-<a href="https://mrshu.github.io/github-statuses/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg"
-    width="100%"
-  />
-</a>
+<div align="center">
+  <a href="https://mrshu.github.io/github-statuses/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg"
+      width="100%"
+    />
+  </a>
+</div>
 
-<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/cve-dashboard.svg"
-    width="100%"
-  />
-</a>
+<div align="center">
+  <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/cve-dashboard.svg"
+      width="100%"
+    />
+  </a>
+</div>
 
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
