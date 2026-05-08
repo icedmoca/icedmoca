@@ -29,17 +29,28 @@ const fs = require("fs");
       panel.style.minHeight = "0";
       panel.style.maxHeight = "300px";
       panel.style.overflow = "hidden";
+      panel.style.width = "1400px";
+      panel.style.minWidth = "1400px";
+      panel.style.maxWidth = "1400px";
     }
 
     document.body.style.margin = "0";
     document.body.style.padding = "0";
     document.body.style.minHeight = "0";
     document.body.style.height = "auto";
+    document.body.style.width = "1400px";
+    document.body.style.minWidth = "1400px";
+    document.body.style.maxWidth = "1400px";
+    document.body.style.overflow = "hidden";
 
     document.documentElement.style.margin = "0";
     document.documentElement.style.padding = "0";
     document.documentElement.style.minHeight = "0";
     document.documentElement.style.height = "auto";
+    document.documentElement.style.width = "1400px";
+    document.documentElement.style.minWidth = "1400px";
+    document.documentElement.style.maxWidth = "1400px";
+    document.documentElement.style.overflow = "hidden";
   });
 
   const svg = await page.$eval(".hero-panel", el => {
@@ -62,14 +73,25 @@ const fs = require("fs");
   height="300"
   viewBox="0 0 1400 300"
 >
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+  <foreignObject width="1400" height="300">
+    <div
+      xmlns="http://www.w3.org/1999/xhtml"
+      style="
+        width:1400px;
+        min-width:1400px;
+        max-width:1400px;
+        overflow:hidden;
+      "
+    >
       <style>
         html, body {
           margin: 0;
           padding: 0;
           overflow: hidden;
           background: transparent;
+          width: 1400px;
+          min-width: 1400px;
+          max-width: 1400px;
         }
 
         ${css}
