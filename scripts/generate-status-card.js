@@ -43,7 +43,9 @@ const fs = require("fs");
 </svg>`;
   });
 
-  fs.writeFileSync("github-status-card.svg", svg);
+  fs.mkdirSync("svgs", { recursive: true });
+
+  fs.writeFileSync("svgs/github-status-card.svg", svg);
 
   await browser.close();
 })();
