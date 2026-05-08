@@ -1,8 +1,21 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="390" viewBox="0 0 1400 390">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1400"
+  height="300"
+  viewBox="0 0 1400 300"
+>
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>:root { color-scheme: light; --bg: #f6f8fa; --bg-top: #ffffff; --bg-bottom: #f6f8fa; --bg-2: #ffffff; --ink: #24292f; --muted: #57606a; --card: #ffffff; --border: #d0d7de; --accent: #0969da; --operational: #2da44e; --minor: #d97706; --major: #cf222e; --maintenance: #1f6feb; --shadow: 0 20px 40px -30px rgba(0, 0, 0, 0.35); --radius: 18px; --radius-sm: 12px; --mono: "IBM Plex Sans", system-ui, -apple-system, sans-serif; --display: "Space Grotesk", "IBM Plex Sans", sans-serif; --card-border-soft: #f0eee8; --feature-border: rgba(207, 34, 46, 0.2); --feature-bg: linear-gradient(135deg, rgba(207, 34, 46, 0.08), rgba(255, 255, 255, 0.96)),
+      <style>
+        html, body {
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background: transparent;
+        }
+
+        :root { color-scheme: light; --bg: #f6f8fa; --bg-top: #ffffff; --bg-bottom: #f6f8fa; --bg-2: #ffffff; --ink: #24292f; --muted: #57606a; --card: #ffffff; --border: #d0d7de; --accent: #0969da; --operational: #2da44e; --minor: #d97706; --major: #cf222e; --maintenance: #1f6feb; --shadow: 0 20px 40px -30px rgba(0, 0, 0, 0.35); --radius: 18px; --radius-sm: 12px; --mono: "IBM Plex Sans", system-ui, -apple-system, sans-serif; --display: "Space Grotesk", "IBM Plex Sans", sans-serif; --card-border-soft: #f0eee8; --feature-border: rgba(207, 34, 46, 0.2); --feature-bg: linear-gradient(135deg, rgba(207, 34, 46, 0.08), rgba(255, 255, 255, 0.96)),
     #ffffff; --feature-shadow: 0 18px 40px -30px rgba(207, 34, 46, 0.55); --feature-shadow-hover: 0 24px 48px -32px rgba(207, 34, 46, 0.7); --feature-outlet: rgba(36, 41, 47, 0.86); --date-chip-border: rgba(208, 215, 222, 0.92); --date-chip-bg: rgba(36, 41, 47, 0.05); --feature-dot-idle: rgba(87, 96, 106, 0.28); --button-hover-bg: rgba(36, 41, 47, 0.06); --button-loading-bg: rgba(36, 41, 47, 0.05); --button-success-bg: rgba(45, 164, 78, 0.12); --button-warning-bg: rgba(217, 119, 6, 0.12); --button-error-bg: rgba(207, 34, 46, 0.1); --button-success-ink: #1b5f33; --button-warning-ink: #8a4b00; --button-error-ink: #8a1f24; --status-pill-ok-bg: #eaf6ec; --status-pill-none-bg: #e9f7ed; --status-pill-ring: rgba(46, 164, 79, 0.2); --bars-empty: #dfe4ea; --tooltip-bg: #fffdf9; --tooltip-shadow: 0 20px 38px -28px rgba(28, 28, 28, 0.5); --tooltip-summary-bg: rgba(207, 201, 190, 0.2); --prompt-bg: #ffffff; --prompt-shadow: 0 16px 28px -24px rgba(17, 18, 26, 0.32); --prompt-shadow-hover: 0 18px 30px -22px rgba(17, 18, 26, 0.38); --cta-option-bg: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%); --cta-preview-border: rgba(36, 41, 47, 0.12); --cta-preview-bg: radial-gradient(circle at top left, rgba(9, 105, 218, 0.08), transparent 38%),
     linear-gradient(180deg, #f9fbfd 0%, #ffffff 100%); --status-meta-card-border: var(--date-chip-border); --status-meta-card-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(246, 248, 250, 0.92)); --picker-link-bg: rgba(255, 255, 255, 0.86); --picker-link-active-bg: var(--ink); --picker-link-active-ink: var(--bg-2); --picker-link-active-border: var(--ink); --picker-card-bg: rgba(255, 255, 255, 0.92); --picker-hub-item-bg: rgba(255, 255, 255, 0.9); --picker-preview-border: rgba(36, 41, 47, 0.08); --picker-preview-bg: radial-gradient(circle at top left, rgba(9, 105, 218, 0.12), transparent 34%),
     linear-gradient(180deg, rgba(255, 255, 255, 0.94), rgba(246, 248, 250, 0.98)); --picker-preview-panel-border: rgba(36, 41, 47, 0.08); --picker-preview-panel-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 250, 252, 0.92)); --picker-preview-panel-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.85); --about-panel-bg: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%); --about-nerd-bg: rgba(9, 105, 218, 0.06); --about-nerd-border: rgba(9, 105, 218, 0.16); --month-card-bg: #ffffff; --month-future-bg: #e9edf1; --empty-bg: #f6f8fa; --incident-card-bg: #ffffff; --timeline-chip-bg: #f0ede7; --component-chip-bg: #f6f8fa; --icon-button-bg: #ffffff; --badge-minor-ink: #8a4b00; --badge-major-ink: #8a1f24; --badge-maintenance-ink: #1f4d8f; --badge-operational-ink: #1b5f33; --source-tab-bg: linear-gradient(180deg, #11121a 0%, #24292f 100%); --source-tab-border: transparent; --source-tab-shadow: 0 18px 28px -22px rgba(17, 18, 26, 0.8); --source-tab-notch: rgba(255, 255, 255, 0.12); }
@@ -390,8 +403,10 @@ details ul { padding-left: 16px; color: var(--muted); }
   .picker-demo-pill, .picker-demo-fold-card, .picker-demo-hero-strip { left: 16px; right: 16px; width: auto; }
   .picker-demo-ribbon-band { right: -86px; width: 260px; }
 }
-</style>
-      <div class="hero-panel hero-panel-full">
+
+      </style>
+
+      <div class="hero-panel hero-panel-full" style="margin: 0px; padding: 24px; height: auto; min-height: 0px; max-height: 300px; overflow: hidden;">
           <div class="hero-panel-header">
             <h3>Last 90 days uptime</h3>
             <div class="status-meta" id="statusMeta">
