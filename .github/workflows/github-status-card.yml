@@ -1,0 +1,38 @@
+name: GitHub Status Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm install
+
+      - run: npx playwright install chromium
+
+      - run: node scripts/generate-status-card.js
+
+      - name: Commit SVG
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add github-status-card.svg
+
+          git commit -m "update github status card" || exit 0
+
+          git push
