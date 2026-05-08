@@ -6,7 +6,7 @@
 
 <a href="https://mrshu.github.io/github-statuses/" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=2"
+    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
     width="100%"
   />
 </a>
