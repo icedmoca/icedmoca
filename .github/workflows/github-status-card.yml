@@ -14,25 +14,39 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - run: npm install
+      - name: Install deps
+        run: |
+          npm init -y
+          npm install playwright
 
-      - run: npx playwright install chromium
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
 
-      - run: node scripts/generate-status-card.js
+      - name: Generate SVG
+        run: node scripts/generate-status-card.js
 
-      - name: Commit SVG
+      - name: Show files
+        run: ls -la
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add github-status-card.svg
 
-          git commit -m "update github status card" || exit 0
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
 
+          git commit -m "update github status card"
           git push
