@@ -25,10 +25,7 @@ jobs:
       - name: Install deps
         run: |
           npm init -y
-          npm install playwright axios
-
-      - name: Install Chromium
-        run: npx playwright install --with-deps chromium
+          npm install axios
 
       - name: Generate SVG
         run: node scripts/generate-status-card.js
