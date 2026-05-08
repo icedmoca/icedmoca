@@ -4,6 +4,9 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/github-status-card.svg" width="100%">
+
+
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
 | **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | Prototype/Active Development |
