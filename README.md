@@ -11,6 +11,13 @@
   />
 </a>
 
+<a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/cve-dashboard.svg"
+    width="100%"
+  />
+</a>
+
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
