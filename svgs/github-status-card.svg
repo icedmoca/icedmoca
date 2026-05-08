@@ -5,14 +5,25 @@
   height="300"
   viewBox="0 0 1400 300"
 >
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+  <foreignObject width="1400" height="300">
+    <div
+      xmlns="http://www.w3.org/1999/xhtml"
+      style="
+        width:1400px;
+        min-width:1400px;
+        max-width:1400px;
+        overflow:hidden;
+      "
+    >
       <style>
         html, body {
           margin: 0;
           padding: 0;
           overflow: hidden;
           background: transparent;
+          width: 1400px;
+          min-width: 1400px;
+          max-width: 1400px;
         }
 
         :root { color-scheme: light; --bg: #f6f8fa; --bg-top: #ffffff; --bg-bottom: #f6f8fa; --bg-2: #ffffff; --ink: #24292f; --muted: #57606a; --card: #ffffff; --border: #d0d7de; --accent: #0969da; --operational: #2da44e; --minor: #d97706; --major: #cf222e; --maintenance: #1f6feb; --shadow: 0 20px 40px -30px rgba(0, 0, 0, 0.35); --radius: 18px; --radius-sm: 12px; --mono: "IBM Plex Sans", system-ui, -apple-system, sans-serif; --display: "Space Grotesk", "IBM Plex Sans", sans-serif; --card-border-soft: #f0eee8; --feature-border: rgba(207, 34, 46, 0.2); --feature-bg: linear-gradient(135deg, rgba(207, 34, 46, 0.08), rgba(255, 255, 255, 0.96)),
@@ -406,7 +417,7 @@ details ul { padding-left: 16px; color: var(--muted); }
 
       </style>
 
-      <div class="hero-panel hero-panel-full" style="margin: 0px; padding: 24px; height: auto; min-height: 0px; max-height: 300px; overflow: hidden;">
+      <div class="hero-panel hero-panel-full" style="margin: 0px; padding: 24px; height: auto; min-height: 0px; max-height: 300px; overflow: hidden; width: 1400px; min-width: 1400px; max-width: 1400px;">
           <div class="hero-panel-header">
             <h3>Last 90 days uptime</h3>
             <div class="status-meta" id="statusMeta">
