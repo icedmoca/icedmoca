@@ -4,6 +4,7 @@
 
 ---
 
+*This tracks GitHub's long term uptime history that their [official status page](https://www.githubstatus.com/) no longer shows:*
 <a href="https://mrshu.github.io/github-statuses/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
@@ -20,6 +21,7 @@
   </a>
 </div>
 
+*This shows recent vulnerabilities that hackers are actively exploiting right now (left side), and the main systems they are targeting (right side).*
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
