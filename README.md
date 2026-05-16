@@ -12,6 +12,8 @@
   />
 </a>
 
+*Latest vulnerabilities hackers are actively attacking right now, plus the main systems they are targeting:*
+
 <div align="center">
   <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
     <img
@@ -21,7 +23,6 @@
   </a>
 </div>
 
-*This shows recent vulnerabilities that hackers are actively exploiting right now (left side), and the main systems they are targeting (right side).*
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
