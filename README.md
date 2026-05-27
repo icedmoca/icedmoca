@@ -4,7 +4,9 @@
 
 ---
 
-*This tracks GitHub's long term uptime history that their [official status page](https://www.githubstatus.com/) no longer shows:*
+<p align="center">
+  <em>githubs <a href="https://www.githubstatus.com/">official status page</a> no longer shows:</em>
+</p>
 <a href="https://mrshu.github.io/github-statuses/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
@@ -12,7 +14,9 @@
   />
 </a>
 
-*Latest vulnerabilities hackers are actively attacking right now, plus the main systems they are targeting:*
+<p align="center">
+  <em>latest CVE's</em>
+</p>
 
 <div align="center">
   <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
