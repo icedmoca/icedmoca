@@ -4,6 +4,129 @@
 
 ---
 
+## IoT Evolution Convergence Map
+
+```mermaid
+flowchart TB
+
+    %% Evolution Timeline
+
+    AI[Advancing AI]
+    CYBER[AI Cyber Arms Race]
+    VERIFY[Cryptographic Verification]
+    DECENT[Decentralized Systems]
+    QUANTUM[Quantum Threat]
+    PQC[Post-Quantum Security]
+
+    AI --> CYBER
+    CYBER --> VERIFY
+    VERIFY --> DECENT
+    DECENT --> QUANTUM
+    QUANTUM --> PQC
+
+    %% FRAME Core
+
+    PQC --> FRAME
+
+    subgraph FRAME[decentralized os]
+
+        User[Human]
+
+        LocalAI[Local AI]
+        LocalState[Local State]
+        LocalLedger[Local Ledger]
+        LocalStorage[Local Storage]
+        LocalIdentity[Local Identity]
+
+        User --> LocalAI
+        User --> LocalState
+
+        LocalAI --> LocalLedger
+        LocalAI --> LocalStorage
+        LocalAI --> LocalIdentity
+
+    end
+
+    %% Distributed Layer
+
+    subgraph Distributed Layer
+
+        PeerMesh[Peer Mesh Network]
+        SharedState[Shared State]
+        Assets[Digital Assets]
+        Automation[Automation]
+
+    end
+
+    LocalLedger --> PeerMesh
+    LocalIdentity --> SharedState
+    LocalAI --> Automation
+    LocalState --> Assets
+
+    %% Public Layer
+
+    subgraph Public Internet
+
+        PublicChains[Public Chains]
+        Markets[Open Markets]
+        Services[Public Services]
+        GlobalIdentity[Global Identity]
+
+    end
+
+    PeerMesh --> PublicChains
+
+    PublicChains --> Markets
+    PublicChains --> Services
+    PublicChains --> GlobalIdentity
+
+    %% Security Evolution
+
+    Passwords[Passwords]
+    MFA[Multi-Factor Auth]
+    HardwareKeys[Hardware Security Keys]
+    CryptoID[Cryptographic Identity]
+    DID[Decentralized Identity]
+    PQID[Post-Quantum Identity]
+
+    Passwords --> MFA
+    MFA --> HardwareKeys
+    HardwareKeys --> CryptoID
+    CryptoID --> DID
+    DID --> PQID
+
+    PQID --> LocalIdentity
+
+    %% Convergence
+
+    AI2[Artificial Intelligence]
+    Crypto[Cryptography]
+    Quantum[Quantum Computing]
+    Distributed[Distributed Systems]
+    Identity[Digital Identity]
+
+    AI2 --> Trust[Trust Layer]
+    Crypto --> Trust
+    Quantum --> Trust
+    Distributed --> Trust
+    Identity --> Trust
+
+    Trust --> FRAME
+
+    %% Future State
+
+    FRAME --> Future[Future Internet]
+
+    Future --> Centralized[Centralized Services]
+    Future --> Decentralized[Decentralized Services]
+    Future --> UserOwned[User-Owned Data]
+    Future --> AgenticAI[Agentic AI]
+    Future --> SecureIdentity[Secure Identity]
+    Future --> PQSecurity[Post-Quantum Security]
+```
+
+---
+
 <p align="center">
   <em>githubs <a href="https://www.githubstatus.com/">official status page</a> no longer shows:</em>
 </p>
