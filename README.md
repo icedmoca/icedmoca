@@ -155,8 +155,7 @@ flowchart TB
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
 | **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | Prototype/Active Development |
 | **AI Vehicle Diagnostics**                     | [Gauge](https://github.com/gauge-obd)           | `Live data` to device directly into a `AI harness` to deliver `plain English explanations`, `failure predictions`, and sleek `Markdown dashboards` in `real time`                         | Alpha/Active Development              |
-| **AI System** | [NEURA](https://github.com/neura-asi) | `Policy driven`, `self correcting` `AI agent` with `tool orchestration`, `structured fact extraction`, `conflict detection`, `econciliation loops`, and `memory guided decision making` | Active Development |
-| **CLI Harness** | [neura](https://github.com/icedmoca/neura) | `Local first` `AI coding harness` with `persistent memory`, `context virtualization`, `lossless retrieval backed compression`, `dynamic tool orchestration`, `local sidecar routing`, `semantic context paging`, and `tool grounded long session execution` | Release / Active Development |
+| **AI System** | [NEURA](https://github.com/neura-asi) | `Grounded cognition`, `verified reasoning`, `capability orchestration`, `evidence synthesis`, `conflict resolution`, `active inquiry`, `persistent world modeling`, and `memory-guided decision making` | Active Development |
 
 > [!NOTE]
 > Projects listed as **Experimental** are on hold..
