@@ -30,7 +30,7 @@
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
-| **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | Prototype/Active Development |
+| **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | First Prototype/Active Development |
 | **AI Vehicle Diagnostics**                     | [Gauge](https://github.com/gauge-obd)           | `Live data` to device directly into a `AI harness` to deliver `plain English explanations`, `failure predictions`, and sleek `Markdown dashboards` in `real time`                         | Alpha/Active Development              |
 | **AI System** | [NEURA](https://github.com/neura-asi) | `Grounded cognition`, `verified reasoning`, `capability orchestration`, `evidence synthesis`, `conflict resolution`, `active inquiry`, `persistent world modeling`, and `memory-guided decision making` | Active Development |
 
