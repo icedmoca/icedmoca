@@ -4,20 +4,6 @@
 
 ---
 
-<p align="center">
-  <em>githubs <a href="https://www.githubstatus.com/">official status page</a> no longer shows:</em>
-</p>
-<a href="https://mrshu.github.io/github-statuses/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
-    width="100%"
-  />
-</a>
-
-<p align="center">
-  <em>Latest Known Exploited Vulnerabilities</em>
-</p>
-
 <div align="center">
   <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
     <img
@@ -26,6 +12,13 @@
     />
   </a>
 </div>
+
+<a href="https://mrshu.github.io/github-statuses/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
+    width="100%"
+  />
+</a>
 
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
