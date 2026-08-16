@@ -1,5 +1,3 @@
-# Kyle Drake
-
 > *Systems Engineer*
 
 ---
