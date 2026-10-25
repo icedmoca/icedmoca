@@ -1,4 +1,6 @@
-> *Systems Engineer*
+> 
+[![Gists](https://img.shields.io/badge/Gists-24292F?style=flat&logo=github&logoColor=white)](https://gist.github.com/icedmoca)
+
 
 ---
 
@@ -17,6 +19,9 @@
     width="100%"
   />
 </a>
+
+
+
 
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
