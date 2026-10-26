@@ -1,33 +1,7 @@
-> 
-[![Gists](https://img.shields.io/badge/Gists-24292F?style=flat&logo=github&logoColor=white)](https://gist.github.com/icedmoca)
-
-
----
-
-<div align="center">
-  <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/cve-dashboard.svg"
-      width="100%"
-    />
-  </a>
-</div>
-
-<a href="https://mrshu.github.io/github-statuses/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/icedmoca/icedmoca/main/svgs/github-status-card.svg?v=99"
-    width="100%"
-  />
-</a>
-
-
-
-
 
 | Vertical                              | Organization                    | Core Innovation                                                         | Status             |
 |--------------------------------------------|-----------------------------------|-------------------------------------------------------------------------|--------------------|
 | **Decentralized Identity & OS**                     | [FRAME](https://github.com/frameprotocol)                    | `Deterministic` `local first` `runtime` with `capability scoped execution`, `receipt chaining`, and fully `replayable state`                         | First Prototype/Active Development |
-| **AI Vehicle Diagnostics**                     | [GAUGE](https://github.com/gauge-obd)           | `Live data` to device directly into a `AI harness` to deliver `plain English explanations`, `failure predictions`, and sleek `Markdown dashboards` in `real time`                         | Alpha/Active Development              |
 | **AI System** | [NEURA](https://github.com/neura-asi) | `Grounded cognition`, `verified reasoning`, `capability orchestration`, `evidence synthesis`, `conflict resolution`, `active inquiry`, `persistent world modeling`, and `memory-guided decision making` | Active Development |
 
 > [!NOTE]
